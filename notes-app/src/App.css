@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .desktop-links {
+    display: none;
+  }
+
+  .menu-button {
+    display: block;
+  }
+}
